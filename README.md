@@ -1,2 +1,2 @@
 # YaPracticum_Projects
-## Здесь выложены некоторые из выполненных проектов.
+## Here you can evaluate some of the completed projects.
